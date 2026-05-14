@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student from Universiti Teknologi Malaysia
 ------------------------------------------
 
-I am a student at University of Technology Malaysia and I was studying Bachelor of Computer Science(Bioinformatics) with Honours Computing
+I am a student at University of Technology Malaysia and I was studying Bachelor of Computer Science(Computer Network and Security) with Honours Computing
 
 * 🌍  I'm based in Malaysia
 * 🖥️  See my portfolio at [Utm e-portfolio](http://github.com/Jiafeng7/Utm-e-portfolio)
